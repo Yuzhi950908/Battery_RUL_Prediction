@@ -1,0 +1,1 @@
+https://github.com/fmardero/battery_aging/blob/master/discharge.csv
